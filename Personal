@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+     <h1>Pia Parte 1</h1>
+<h2>Datos Personales</h2>
+<ul>
+  <li>Alumno: Alexia Abigail Olguin Loera</li>
+  <li>Matricula: 2003722</li>
+  <li>Hora: V4-V6 Jueves</li>
+  <li>Lenguajes de Programacion</li>
+  <li>Semestre: Enero-Junio 2023</li>
+  <li>Maestro: Ing. Ismael Guitierrez Pimentel</li>
+</ul>
+
+<p><a href="https://www.google.com/?hl=es"> Personales</a></p>
+<p><a href="https://desarrolloweb.com/manuales/manual-html.html">Menu Tareas</a></p>
+</body>
+</html>
